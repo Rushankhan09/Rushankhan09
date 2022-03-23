@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rushankhan09
+- 👀 I’m interested in APP Devlopment.
+- 🌱 I’m currently learning JAVA
+- 💞️ I’m looking to collaborate on project regarding web and app development.
+- 📫 How to reach me www.linkedin.com/in/rushan-khan
