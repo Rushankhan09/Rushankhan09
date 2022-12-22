@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rushankhan09
-- 👀 I’m interested in APP Devlopment.
+- 👀 I’m interested in Web Devlopment, Graphic Designing and UI/UX Designing.
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on project regarding web and app development.
+- 💞️ I’m looking to collaborate on project regarding web development and graphic designing.
 - 📫 How to reach me www.linkedin.com/in/rushan-khan
